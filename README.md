@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [file:///C:/Users/sandeep/Desktop/flight%20prices%20prediction.html](https://flight-price-prediction-api.herokuapp.com/)
+Link: [file:///C:/Users/sandeep/Desktop/flight%20prices%20prediction.html](file:///C:/Users/sandeep/Desktop/flight%20prices%20prediction.html)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
@@ -60,7 +60,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](file:///C:/Users/sandeep/Desktop/flight%20prices%20prediction.html) here by including your search query and the expected result
 
 ## Future Scope
 
